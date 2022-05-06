@@ -1,7 +1,7 @@
 package jsn_test
 
 import (
-	"github.com/Buzzvil/streamprocessorsvc/internal/pkg/jsn"
+	"github.com/UsadaPeko/jsn"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
